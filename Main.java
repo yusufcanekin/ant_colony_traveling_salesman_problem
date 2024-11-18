@@ -1,7 +1,7 @@
 /**
  * This program finds the shortest cycle for a salesman either using ant colony optimization
  * or brute force calculation by visiting every node in a given graph.
- * @author Yusuf Can Ekin, Student ID: 2022400207
+ * @author Yusuf Can Ekin
  * @since Date: 12.06.2024
  */
 
